@@ -18,11 +18,4 @@ Silent, if `$GITHUB_TOKEN` is set in environment and repository provided as an a
 ```
 
 ## Provided labels
-![Screenshot of labels](https://user-images.githubusercontent.com/378794/55607288-87cd5500-57c7-11e9-8df3-bf09a3563eff.png)
-
-An example of the pull request progression through labels:
-
-`DO NOT REVIEW` -> `Needs review` -> `Ready for test` -> `Ready to be merged`
-
-## Modifying labels
-You may specify your own labels in the script with name, color and description.
+![Screenshot of labels](https://raw.githubusercontent.com/iofic/github-labels/main/.github/assets/labels.png)
